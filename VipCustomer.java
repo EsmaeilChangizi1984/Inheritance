@@ -1,5 +1,5 @@
 package Inheritance;
-
+//Constructor chain.
 public class VipCustomer {
 	
 	private String name;
